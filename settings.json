@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GreenPepper.aternos.me",
+    "ip": "bordoodle.aternos.host:36471",
     "port": 36471,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
